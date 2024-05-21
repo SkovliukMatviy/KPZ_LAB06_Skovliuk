@@ -1,4 +1,4 @@
-# Bankonat
+# Bankomat
 <b>Design Patterns Bankomat Project by Skovliuk Matviy IPZ-22-4</b> <br/>
 I have implemented <i>Command</i>, <i>State</i> and <i>Memento</i> design patterns.
 
